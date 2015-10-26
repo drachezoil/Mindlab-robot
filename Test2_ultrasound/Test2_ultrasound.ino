@@ -23,7 +23,7 @@
 #define MOTOR_B_A     6   // Motor B pin 2, B-IA, PWM
 
 // the actual values for "fast" and "slow" depend on the motor
-#define PWM_SLOW    100      // arbitrary slow speed PWM duty cycle
+#define PWM_SLOW    80      // arbitrary slow speed PWM duty cycle
 #define PWM_FAST    150     // arbitrary fast speed PWM duty cycle
 #define DIR_DELAY   1000    // brief delay for abrupt motor changes
 
